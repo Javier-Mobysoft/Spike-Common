@@ -12,4 +12,8 @@ public class Util {
     public static String print2(){
         return "KO";
     }
+    public static String print3(){
+        return "KO";
+    }
+
 }
