@@ -4,7 +4,7 @@
 
 	<groupId>com.gitflow.spike</groupId>
 	<artifactId>common</artifactId>
-	<version>0.0.1.stage-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Common</name>
@@ -20,7 +20,7 @@
 	<parent>
 		<groupId>com.gitflow.spike</groupId>
 		<artifactId>spike-parent</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>0.0.1.stage-SNAPSHOT</version>
 	</parent>
 
 	<properties>
