@@ -20,7 +20,7 @@
 	<parent>
 		<groupId>com.gitflow.spike</groupId>
 		<artifactId>spike-parent</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>LATEST</version>
 	</parent>
 
 	<properties>
