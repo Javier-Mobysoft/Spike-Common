@@ -5,10 +5,6 @@ package com.gitflow.spike.common;
  */
 public class Util {
 
-    public static String print(){
-        return "OK";
-    }
-
     public static String print2(){
         return "KO";
     }
